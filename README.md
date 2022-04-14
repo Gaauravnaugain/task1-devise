@@ -1,3 +1,3 @@
-# stands for main header
+#  hash stands for main header
 
 standalone
